@@ -1,3 +1,5 @@
+# Deprecated.  Use ndm-schema-generator-mysql
+
 # ndm-schema-generator
 
 A tool to generate a database schema object for use with the [node-data-mapper](https://github.com/benbotto/node-data-mapper) project.
